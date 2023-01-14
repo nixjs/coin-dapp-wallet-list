@@ -7,7 +7,7 @@ export const Dapps: Dapp[] = [
         description:
             'Uniswap v3 is a noncustodial automated market maker imple mented for the Ethereum Virtual Machine. In comparison to earlier versions of the protocol, Uniswap v3 provides increased capital efficiency and fine-tuned control to liquidity providers, improves the accuracy and convenience of the price oracle, and has a more lexible fee structure.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/UniswapV3.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/UniswapV3.png',
         category: 'Exchange',
     },
     {
@@ -15,7 +15,7 @@ export const Dapps: Dapp[] = [
         url: 'https://curve.eth.link/',
         description: `Curve is DeFi's leading AMM, (Automated Market Maker).  Hundreds of liquidity pools have been launched through Curve's factory and incentivized by Curve's DAO.  Users rely on Curve's proprietary formulas to provide high liquidity, low slippage, low fee transactions among ERC-20 tokens.`,
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Curve.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Curve.png',
         category: 'Exchange',
     },
     {
@@ -24,7 +24,7 @@ export const Dapps: Dapp[] = [
         description:
             'Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform. Welcome home to DeFi.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/sushiswap.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/sushiswap.png',
         category: 'Exchange',
     },
     {
@@ -33,7 +33,7 @@ export const Dapps: Dapp[] = [
         description:
             'Uniswap V2, the second iteration of the Uniswap protocol, has been deployed to the Ethereum mainnet! Uniswap V2 has many new features and technical improvements compared with Uniswap V1 including: ERC20 / ERC20 Pairs Price Oracles Flash Swaps And much more!',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/UniswapV2.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/UniswapV2.png',
         category: 'Exchange',
     },
     {
@@ -41,7 +41,7 @@ export const Dapps: Dapp[] = [
         url: 'https://app.aave.com/',
         description: 'Aave is an open source decentralized lending protocol that provides users with deposit and lending services.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Aave.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Aave.png',
         category: 'DeFi',
     },
     {
@@ -50,7 +50,7 @@ export const Dapps: Dapp[] = [
         description:
             'dYdX is the developer of a leading decentralized exchange on a mission to build open, secure, and powerful financial products.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/dYdX.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/dYdX.png',
         category: 'Exchange',
     },
     {
@@ -66,7 +66,7 @@ export const Dapps: Dapp[] = [
         url: 'https://app.1inch.io/',
         description: '1inch Aggregation Protocol Facilitates Cost-Efficient and Secure Swap Trading Across Multiple Liquidity Sources.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/1inch.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/1inch.png',
         category: 'Exchange',
     },
     {
@@ -74,7 +74,7 @@ export const Dapps: Dapp[] = [
         url: 'https://app.dodoex.io/',
         description: `DODO's original PMM algorithm can help ordinary market makers and professional market makers provide the best liquidity with the least amount of funds. Efficient routing algorithms can compare prices across the entire network and provide traders with the most favorable transaction path.`,
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/sushiswap.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/dodo.jpeg',
         category: 'Exchange',
     },
     {
@@ -83,7 +83,7 @@ export const Dapps: Dapp[] = [
         description:
             'Perptual Protocol is a decentralized perpetual contract trading protocol with good liquidity, which is highly developer-friendly and composable.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/synthetix.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Perpetual.jpeg',
         category: 'DeFi',
     },
     {
@@ -100,7 +100,7 @@ export const Dapps: Dapp[] = [
         description:
             'Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides yield generation, lending aggregation, and more on the blockchain.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/YearnFinance.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/YearnFinance.png',
         category: 'DeFi',
     },
     {
@@ -109,7 +109,7 @@ export const Dapps: Dapp[] = [
         description:
             'The Lido DAO is a decentralized autonomous organization that governs the liquid staking protocol through the voting power of governance token() holders to determine key parameters (e.g., set fees, assign node operators and oracles, etc.).',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/LIDO.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/LIDO.png',
         category: 'DeFi',
     },
     {
@@ -117,7 +117,7 @@ export const Dapps: Dapp[] = [
         url: 'https://opensea.io/',
         description: 'Largest NFT marketplace. Buy, sell and discover items.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/OpenSea.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/OpenSea.png',
         category: 'Marketplace',
     },
     {
@@ -141,7 +141,7 @@ export const Dapps: Dapp[] = [
         url: 'https://apenft.io/',
         description: 'Register world-class artworks as NFTs on blockchain.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/APENFT.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/APENFT.png',
         category: 'Marketplace',
     },
     {
@@ -166,7 +166,7 @@ export const Dapps: Dapp[] = [
         url: 'https://www.bancor.network/',
         description: 'Bancor is a liquidity protocol that enables automated, decentralized exchange.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Bancor.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Bancor.png',
         category: 'Exchange',
     },
     {
@@ -175,7 +175,7 @@ export const Dapps: Dapp[] = [
         description:
             'Balancer Protocol allows for automated portfolio management and providing liquidity turning the concept of an index fund on its head: instead of paying fees to portfolio managers, you collect fees from traders who rebalance your portfolio by following arbitrage opportunities.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Balancer.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Balancer.png',
         category: 'Exchange',
     },
     {
@@ -192,7 +192,7 @@ export const Dapps: Dapp[] = [
         description:
             'ApeSwap is the DeFi hub on BNB Chain, Polygon and Ethereum focused on providing everyone an accessible, transparent and secure experience.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/ape.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/ape.png',
         category: 'DeFi',
     },
     {
@@ -210,7 +210,7 @@ export const Dapps: Dapp[] = [
         description:
             'Synthetix is a decentralized synthetic asset platform. These assets - synths - are crypto-backed synthetic assets that track the value of underlying assets and allow exposure to an asset without the requirement of actually holding it.',
         trusted: true,
-        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Synthetix.jpeg',
+        img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/ethereum/dapp/assets/Synthetix.png',
         category: 'DeFi',
     },
 ]
