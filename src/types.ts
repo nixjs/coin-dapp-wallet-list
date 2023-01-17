@@ -7,4 +7,4 @@ export interface Dapp {
     category: Category
 }
 
-export type Category = 'Gambling' | 'Game' | 'Game' | 'Exchange' | 'DeFi' | 'Finance' | 'Social' | 'Marketplace' | 'Utilities' | 'Others'
+export type Category = 'Gambling' | 'Game' | 'Exchange' | 'DeFi' | 'Finance' | 'Social' | 'Marketplace' | 'Utilities' | 'Others'
