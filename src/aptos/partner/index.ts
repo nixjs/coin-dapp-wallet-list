@@ -15,7 +15,7 @@ export const Partner: (Dapp & { redirect: string })[] = [
         url: 'https://stealthex.io/',
         redirect: 'stealthex',
         description:
-            'StealthEX is an instant cryptocurrency exchange for limitless swaps. Their service is free from registration and does not store user’s funds on the platform. StealthEX is the best place to buy cryptocurrency.',
+            'StealthEX is an instant cryptocurrency exchange for limitless swaps. Our service is free from registration and does not store user’s funds on the platform. StealthEX is the best place to buy cryptocurrency. 700+ coins and tokens are available for quick and easy exchanges. Data privacy and security is a top priority for StealthEX, so all the swaps are non-custodial, and forever will be.',
         img: 'https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/aptos/partner/assets/StealthEX.png',
         category: 'Exchange',
     },
