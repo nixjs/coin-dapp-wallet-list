@@ -24,7 +24,7 @@ export const Partner: (Dapp & { redirect: string })[] = [
     url: "https://exolix.com/",
     redirect: "exolix",
     description:
-      "Best instantly cryptocurrency coin exchange. Lowest fees and best rates for BTC, ETH, ADA, XRP and 400+ more coins. Swap crypto with Exolix exchange platform.",
+      `Operating since 2018, Exolix (https://exolix.com/) offers instant and secure crypto exchange service with no KYC and registration, as the platform is committed to ensuring the highest level of security and reliability in its services. Exolix specializes in automatic round-the-clock processing of transactions and provides best rates on the market. Exolix supports more than 400 assets, providing a diverse range of options for exchange. The platform also leaves it up to you whether to exchange with fixed or floating rates – proceed with your own strategy for controlling over your assets. With Exolix service, you can exchange cryptocurrency in just a few minutes at the most favorable rates, without hidden commissions and additional fees`,
     img: "https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/aptos/partner/assets/Exolix.png",
     category: "Exchange",
   },
