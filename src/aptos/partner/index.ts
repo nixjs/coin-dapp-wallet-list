@@ -35,4 +35,12 @@ export const Partner: (Dapp & { redirect: string })[] = [
     img: "https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/aptos/partner/assets/swapuz.svg",
     category: "Exchange",
   },
+  {
+    name: "ChangeHero",
+    url: "https://changehero.io/",
+    redirect: "changehero",
+    description: `ChangeHero was founded in 2017 by a group of Fintech experts. The company is incorporated in Hong Kong, with the team spread across the world.`,
+    img: "https://raw.githubusercontent.com/nixjs/coin-dapp-wallet-list/main/src/aptos/partner/assets/swapuz.svg",
+    category: "Exchange",
+  },
 ];
